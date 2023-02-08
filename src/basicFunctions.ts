@@ -7,7 +7,7 @@
  * add(1, 7) = 8
  * ```
  */
-function add(firstNumber: number, secondNumber: number) {
+export function add(firstNumber: number, secondNumber: number) {
   return firstNumber + secondNumber;
 }
 
