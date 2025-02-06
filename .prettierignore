@@ -1,12 +1,11 @@
 dist
 docs
 node_modules
-.eslintignore
-.eslintrc.json
 .gitignore
-.mocharc.json
-.prettierrc.json
+.prettierrc
+eslint.config.mjs
 package-lock.json
 package.json
+README.md
 tsconfig.json
 typedoc.json
